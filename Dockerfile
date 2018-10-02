@@ -14,4 +14,5 @@ RUN \
     netcat-openbsd \
     openldap-clients \
     nmap \
-    iftop
+    iftop \
+    bash
