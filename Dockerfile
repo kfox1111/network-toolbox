@@ -15,4 +15,6 @@ RUN \
     openldap-clients \
     nmap \
     iftop \
-    bash
+    bash \
+    iptables \
+    conntrack-tools
